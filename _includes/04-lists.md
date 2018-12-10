@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+[x] this is a list
+[ ] one things to do
+[ ] or not to do
